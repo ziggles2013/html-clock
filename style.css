@@ -1,3 +1,8 @@
 .clock-outer {
   width: 420px;
+  height: 420px;
+  border: 15px solid;
+  border-radius: 50%;
+  position: relative;
+  background: lime;
 }
